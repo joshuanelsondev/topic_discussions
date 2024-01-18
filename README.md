@@ -2,8 +2,10 @@
 # Topic Discussions
 
 Find the date of the office hour you are looking for (above ^ in the files) and there will be a folder entailing the problems we went over.
-#### [zoom link](https://us06web.zoom.us/j/85960424567) 
- [office hour repo](https://github.com/joshuanelsondev/office_hours)
+
+#### [Class Link](https://us06web.zoom.us/j/85960424567) (zoom) 
+
+#### [Office Hours Repo](https://github.com/joshuanelsondev/office_hours)
 ## Recording Links
 - 1/10 - [Recording](https://us06web.zoom.us/rec/share/WIwOmFh3wWJkIPZXAWT4RUqH_NTcOjWQ7SR6tz57btNFqgc1ODA93PKiiGEAzLgz.w-HeyGqa3rzBB4h1), passcode: 1^91UNM2
 
