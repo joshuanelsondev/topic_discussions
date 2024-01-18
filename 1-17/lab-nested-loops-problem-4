@@ -1,0 +1,41 @@
+const scheduleData = require('./data/schedule');
+
+function organizeSchedule(scheduleArr) {
+  const daysArr = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
+  const organizedSchedule = {
+    // 'Monday': [],
+    // 'Tuesday': [], 
+    // 'Wednesday': [], 
+    // 'Thursday': [], 
+    // 'Friday': []
+  }
+  for (let daysIndex = 0; daysIndex < scheduleArr.length; daysIndex++) {
+    let dayOfTheWeek = scheduleArr[daysIndex];
+    organizedSchedule[daysArr[daysIndex]] = [];
+    for (let index = 0; index < dayOfTheWeek.length; index++) {
+      organizedSchedule[daysArr[daysIndex]].push(`${dayOfTheWeek[index].subject} with ${dayOfTheWeek[index].teacher}`)
+     
+      // if (daysIndex === 0) {
+      //   organizedSchedule.Monday.push(`${dayOfTheWeek[index].subject} with ${dayOfTheWeek[index].teacher}`)
+      // }
+
+      // if (daysIndex === 1) {
+      //   organizedSchedule.Tuesday.push(`${dayOfTheWeek[index].subject} with ${dayOfTheWeek[index].teacher}`)
+      // }
+      // if (daysIndex === 2) {
+      //   organizedSchedule.Wednesday.push(`${dayOfTheWeek[index].subject} with ${dayOfTheWeek[index].teacher}`)
+      // }
+      // if (daysIndex === 3) {
+      //   organizedSchedule.Thursday.push(`${dayOfTheWeek[index].subject} with ${dayOfTheWeek[index].teacher}`)
+      // }
+      // if (daysIndex === 4) {
+      //   organizedSchedule.Friday.push(`${dayOfTheWeek[index].subject} with ${dayOfTheWeek[index].teacher}`)
+      // }
+    }
+  }
+  
+  return organizedSchedule;
+
+
+}
+console.log(organizeSchedule(scheduleData));                            
