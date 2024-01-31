@@ -18,4 +18,6 @@ Find the date of the office hour you are looking for (above ^ in the files) and 
 - 1/24 - [Recording](https://us06web.zoom.us/rec/share/KcjJSI-2caXZhNvfYJZF0dW_-TZgkPBQqjlWDKHlfIj63hrz1vgDrkX8BKYTJs3Q.dbCdeWrkw3pEtmWk), passcode: @pjEp1jH
 
 - 1/25 - [Recording](https://us06web.zoom.us/rec/share/wXFvJVGYjOBmCqhAn4auZR72a9yJO4Zl69Gb0l-K5SC_QjRGgCy3SuRkVEmWFdFk.4cu2yQdGMucBK7o7), passcode: 77K!Zgmu
+
+- 1/31 - [Recording](https://us06web.zoom.us/rec/share/JR5dI5-niYQDhunAj0RfucgeR1LMyy0QcSWWSwWDrEDRhEfqgcZmBjP78WkXynCY.CLwFPG3l6dkPuhmX), passcode: TrucW@83
 ---
