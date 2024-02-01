@@ -119,7 +119,7 @@ const users = [
 {
   firstName: "Brendan",
   lastName: "O\'Brien",
-  Age: 42,
+  Age: '42',
   eyeColor: "blue",
   heightInCm: "177.8",
   wearsGlasses: true,
