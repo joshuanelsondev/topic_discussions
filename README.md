@@ -22,5 +22,8 @@ Find the date of the office hour you are looking for (above ^ in the files) and 
 - 1/31 - [Recording](https://us06web.zoom.us/rec/share/JR5dI5-niYQDhunAj0RfucgeR1LMyy0QcSWWSwWDrEDRhEfqgcZmBjP78WkXynCY.CLwFPG3l6dkPuhmX), passcode: TrucW@83
 
 - 2/7 - [Recording](https://us06web.zoom.us/rec/share/1h0aCWMGx1g8ocsKKknlAW061-i2pIwz9EJH3AY4F0JZdvLyCwAloAqUarQsH3nA.TMol4WHB8iZIwRso), passcode: !QuO@S3D
-    * [Replit Link](https://replit.com/@joshuanelsondev/USER-DATA-ARROBJ) 
+    * [Replit Link](https://replit.com/@joshuanelsondev/USER-DATA-ARROBJ)
+
+- 2/8 - [Recording](https://us06web.zoom.us/rec/share/pevmQQBQHCmGmc_GWHh59Sq8HgexUU9TPCG1muRhhvDHUfZos6wY178etc4YHFEs.D9rn59fODBtfCa2K), passcode: =H3?@ZF1
+    * [Replit Link](https://replit.com/@joshuanelsondev/USER-DATA-ARROBJ)
 ---
