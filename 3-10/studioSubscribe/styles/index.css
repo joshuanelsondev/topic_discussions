@@ -1,0 +1,110 @@
+body {
+  background: #F4F4F4;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.card-box {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  place-items: center;
+  gap: 20px;
+}
+
+.studio-card {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 400px;
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px gray;
+  background: white;
+  padding: 10px 20px;
+  font-size: 12px;
+  padding: 20px;
+}
+.studio-card__header {
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 6px;
+}
+.studio-card__subheader {
+  font-size: 12px;
+  color: gray;
+  margin: 0;
+}
+.studio-card__bills-div {
+  display: flex;
+  width: 100%;
+  align-items: end;
+  justify-content: space-between;
+  margin: 0;
+}
+.studio-card__bills-div p {
+  margin: 0;
+}
+.studio-card__price-yearly {
+  font-size: 36px;
+}
+.studio-card__bill-yearly, .studio-card__bill-monthly {
+  color: gray;
+}
+.studio-card__right-bill-div {
+  text-align: end;
+}
+.studio-card__text1 {
+  margin-bottom: 5px;
+}
+.studio-card__text {
+  display: flex;
+  height: 25px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+.studio-card .material-symbols-outlined {
+  background-color: gray;
+  border-radius: 50%;
+  color: white;
+  font-weight: 300;
+  scale: 0.4;
+  padding: 2px;
+}
+.studio-card__dash {
+  margin: 0;
+  color: gray;
+}
+.studio-card__btn {
+  width: 100%;
+  background-color: #EC520B;
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.studio-card:nth-child(1) {
+  background: #D0EFE9;
+}
+.studio-card:nth-child(2) {
+  background: #F9F6E3;
+}
+.studio-card:nth-child(3) {
+  background: #FDCDC1;
+}
+.studio-card:nth-child(4) {
+  background: #F8FFF5;
+}
+
+/*# sourceMappingURL=index.css.map */

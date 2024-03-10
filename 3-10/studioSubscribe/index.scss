@@ -1,0 +1,130 @@
+$subtext-color: gray;
+
+
+body {
+    background: #F4F4F4;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+
+.card-box {
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    place-items: center;
+    gap: 20px;
+}
+
+
+
+
+.studio-card {
+    font-family: sans-serif; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 3px gray;
+    background: white; padding: 10px 20px;
+    font-size: 12px;
+    padding: 20px;
+
+
+    &__header {
+        font-size: 16px;
+        margin: 0;
+        margin-bottom: 6px; 
+    }
+
+    &__subheader {
+        font-size: 12px;
+        color: $subtext-color;
+        margin: 0;
+    }
+
+    &__bills-div {
+        display: flex;
+        width: 100%;
+        align-items: end;
+        justify-content: space-between;
+        margin: 0;
+
+        p {
+            margin: 0;
+        }
+    }        
+
+    &__price-yearly {
+        font-size: 36px;
+    }   
+    
+    &__bill-yearly, &__bill-monthly {
+        color: $subtext-color;
+    }
+
+    &__right-bill-div {
+        text-align: end;
+    }
+
+    &__text1 {
+        margin-bottom: 5px;
+    }
+
+    &__text {
+        display: flex;
+        height: 25px;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .material-symbols-outlined {
+        background-color: $subtext-color; 
+        border-radius: 50%;
+        color: white;
+        font-weight: 300;
+        scale: .40;
+        padding: 2px
+    }
+
+    &__dash {
+        margin: 0;
+        color: $subtext-color;
+    }
+
+    &__btn {
+        width: 100%;
+        background-color: #EC520B;
+        border: none;
+        color: white;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 16px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+
+    &:nth-child(1) {
+        background: #D0EFE9;
+    }
+    &:nth-child(2) {
+        background: #F9F6E3;
+    }
+    &:nth-child(3) {
+        background: #FDCDC1;
+    }
+    &:nth-child(4) {
+        background: #F8FFF5;
+    }
+
+}
