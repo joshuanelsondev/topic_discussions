@@ -1,0 +1,97 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  background-color: #ccc;
+  display: grid;
+  place-items: center;
+}
+
+.nike-form {
+  background-color: white;
+  height: 600px;
+  width: 350px;
+  border-radius: 5px;
+  display: grid;
+  grid-template-rows: repeat(7, auto);
+  justify-items: center;
+  align-items: center;
+  position: relative;
+  padding: 0px 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.nike-form__close {
+  position: absolute;
+  top: 10px;
+  right: 6px;
+  cursor: pointer;
+}
+.nike-form__header {
+  margin: 0;
+}
+.nike-form__text {
+  margin: 0;
+  width: 300px;
+  font-size: 14px;
+  text-align: center;
+  line-height: 25px;
+  color: gray;
+}
+.nike-form__email {
+  display: grid;
+  width: 100%;
+  gap: 4px;
+}
+.nike-form__email input {
+  padding: 12px 14px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+.nike-form__dob-shop {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 14px;
+}
+.nike-form__dob, .nike-form__shop {
+  display: grid;
+  width: 100%;
+  gap: 4px;
+}
+.nike-form__submit {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 3px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.nike-form__subtext {
+  text-align: center;
+  color: gray;
+  font-size: 12px;
+  margin-top: 20px;
+  width: 300px;
+  align-self: start;
+}
+.nike-form__subtext a {
+  color: gray;
+}
+
+#dob {
+  padding: 12px 14px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  color: gray;
+}
+
+#shop {
+  padding: 15px 14px;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  color: gray;
+}
+
+/*# sourceMappingURL=index.css.map */
