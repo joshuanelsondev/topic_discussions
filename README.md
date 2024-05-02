@@ -34,5 +34,6 @@ Find the date of the office hour you are looking for (above ^ in the files) and 
    - 3/7 - [Recording](https://us06web.zoom.us/rec/share/HDVKeDkXZLaTHhNiQ4mZor2Gggh3f-tEFaHMSd8yYGnZbxAEU_A82jY0mXdOAe24.z0XSKxj2V1hW6SoV?pwd=xFi-PnDzXumfIwYehUnZ559PAun34VY6), passcode: K2iUe#K+
    - 3/10 - [Recording](https://us06web.zoom.us/rec/share/cgUfhbLBsguJKkeUjyI8kdTbonS4vMTg82CH5dA8Z37oHhAffeKMPKxrPSouP-Kh.noI7Li-fawLKiE_M?pwd=Ogb_wkJG33A6IyUciUXAPV8Lg0mdqher), passcode: ?5m0?a!e
    - 3/14 - [Recording](https://us06web.zoom.us/rec/share/AaPCTZeGLi0aT-tkkfKitPQ1sNoa9xhXEmcyOutMZA6uDG1B-TBbnv8XAeIoinNZ.mkBNvhV5mrPl_NHG?pwd=jYItRHnf1iAONs0gGi6kM55XYiGeXNI8), passcode: 2r4cp!xr
+   - 4/2 - [Recording](https://us06web.zoom.us/rec/share/JreMxNlErDOFb1uNGQ9WnstPlX81oQydPCCrlZ9UKiQ0GjLCTixgO36DuEuB1fCG.B6v6GlLALPUGCeod?pwd=dBBntr72bZUihowLAjowC8Ksuorocnok)
 </details>
 
